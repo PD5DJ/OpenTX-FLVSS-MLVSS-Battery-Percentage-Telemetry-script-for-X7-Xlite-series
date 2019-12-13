@@ -5,6 +5,8 @@
 ---- # Uses "Cels" Sensor name as voltage input, Compatible with MLVSS and FLVSS Sensor                       #
 -----# Gives a accurate percentage of battery voltage left.                                                   #
 -----#                                                                                                        #
+-----# copy script file to SDCard location : SCRIPTS/TELEMETRY                                                #
+-----#                                                                                                        #
 ---- # License GPLv3: http://www.gnu.org/licenses/gpl-3.0.html                                                #
 ---- #                                                                                                        #
 ---- # This program is free software; you can redistribute it and/or modify                                   #
